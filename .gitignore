@@ -5,3 +5,10 @@ __pycache__/
 .DS_Store
 .cache/
 *.log
+reddit_cache.json
+backup/
+*.bak
+*.before-*
+.venv/
+.vscode/
+.idea/
